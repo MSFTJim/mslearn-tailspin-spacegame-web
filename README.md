@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/MSFTJamesvac/Space%20Game/_apis/build/status/spacegame-web-001?branchName=master)](https://dev.azure.com/MSFTJamesvac/Space%20Game/_build/latest?definitionId=36&branchName=master)
 
 # Contributing
 
