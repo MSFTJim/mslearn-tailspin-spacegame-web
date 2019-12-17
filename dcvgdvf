@@ -1,0 +1,16 @@
+  build-pipeline[m
+  code-workflow[m
+  code-workflow2[m
+  jack-of-trade[m
+* [32mmaster[m
+  [31mremotes/origin/HEAD[m -> origin/master
+  [31mremotes/origin/build-agent[m
+  [31mremotes/origin/build-pipeline[m
+  [31mremotes/origin/build-pipeline-ref[m
+  [31mremotes/origin/code-workflow[m
+  [31mremotes/origin/failed-test[m
+  [31mremotes/origin/master[m
+  [31mremotes/origin/models-package[m
+  [31mremotes/origin/scan-open-source[m
+  [31mremotes/origin/security-scan[m
+  [31mremotes/origin/unit-tests[m
